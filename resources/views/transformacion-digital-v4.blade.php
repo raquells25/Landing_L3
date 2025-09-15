@@ -29,7 +29,7 @@
 
 <body>
 
-    <section class="position-relative pb-5" style="background-image: url('{{asset('images/Imagenes-L1-1.png')}}'); 
+    <section class="position-relative pb-5" style="background-image: url('{{asset('images/Landing-L3-2.png')}}'); 
                 background-size: cover; 
                 background-position: center bottom; 
                 background-repeat: no-repeat; 
@@ -44,13 +44,16 @@
                 <div class="col-xl-10 offset-xl-1 d-flex flex-column justify-content-center">
                     <h1 class="text-white"
                         style="font-size: 6.2rem; line-height: 1.1; font-weight: 900; margin-bottom: 3rem;">
-                        Mejora tu carrera<br>
-                        profesional<br>
-                        sin dejar tu trabajo
+                        Conviértete en el profesional<br>
+                        que buscan las empresas
                     </h1>
                     <h5 class="text-white" style="font-size: 3rem; font-weight: 500; margin-bottom: 4rem;">
-                        Cursos oficiales y gratuitos<br>
-                        diseñados para personas ocupadas
+                        Fórmate gratis,<br>
+                        consigue tu <br>
+                        certificado de <br>
+                        profesionalidad y <br>
+                        gana experiencia <br>
+                        real en empresas<br>
                     </h5>
                 </div>
             </div>
@@ -78,7 +81,7 @@
 
                         <div
                             style="width: 350px; height: 200px; margin: 0 auto; overflow: hidden; border-radius: 12px;">
-                            <img src="{{asset('images/Imagenes-L1-1.png')}}" alt="Tarjeta 1"
+                            <img src="{{asset('images/Landing-L3-2.png')}}" alt="Tarjeta 1"
                                 style="width: 100%; height: 100%; object-fit: cover;">
                         </div>
 
@@ -106,7 +109,7 @@
 
                         <div
                             style="width: 350px; height: 200px; margin: 0 auto; overflow: hidden; border-radius: 12px;">
-                            <img src="{{asset('images/Imagenes-L1-1.png')}}" alt="Tarjeta 2"
+                            <img src="{{asset('images/Landing-L3-2.png')}}" alt="Tarjeta 2"
                                 style="width: 100%; height: 100%; object-fit: cover;">
                         </div>
 
@@ -133,7 +136,7 @@
 
                         <div
                             style="width: 350px; height: 200px; margin: 0 auto; overflow: hidden; border-radius: 12px;">
-                            <img src="{{asset('images/Imagenes-L1-1.png')}}" alt="Tarjeta 3"
+                            <img src="{{asset('images/Landing-L3-2.png')}}" alt="Tarjeta 3"
                                 style="width: 100%; height: 100%; object-fit: cover;">
                         </div>
 
@@ -167,7 +170,7 @@
                     <b>Gana experiencia real y<br>amplía tus oportunidades</b>
                 </h1>
 
-                <p class="mb-5" style="background: linear-gradient(to right, #fd2a0eff, #f5984cff); 
+                <p class="mb-5" style="background: linear-gradient(to right, #3148caff, #b858cfff); 
                             color: white; 
                             border-radius: 15px; 
                             padding: 1.7rem 1.5rem;
@@ -200,7 +203,7 @@
     </section>
 
 
-    <section class="mb-5 bg-section text-center" style="background-image: url('{{asset('images/Imagenes-L1-2.png')}}'); 
+    <section class="mb-5 bg-section text-center" style="background-image: url('{{asset('images/Landing-L3-3.png')}}'); 
                     background-size: cover; 
                     background-position: center 80%; 
                     background-repeat: no-repeat; 
@@ -218,11 +221,6 @@
                     style="font-size: 4rem; line-height: 1.1; font-weight: 900; margin-bottom: 5rem;">
                     <b>Becas y ayudas para personas<br>en situación de desempleo</b>
                 </h1>
-
-                <p class="text-white" style="font-size: 1.6rem; margin-bottom: 7rem;">
-                    Queremos que solo te preocupes de aprender, por eso<br>
-                    ponemos a tu disposición diferentes ayudas económicas
-                </p>
 
                 <div class="row mb-5" style="gap: 1.5rem 0;">
                     <div class="col-6">
@@ -270,7 +268,7 @@
                     <div class="col-md-4 col-12 text-center text-md-start d-flex flex-column justify-content-center"
                         style="margin-left: 7rem; max-width: 40%;">
                         <h1 class="mb-0" style="font-size: 4rem;"><b>Ventajas de<br>nuestros cursos</b></h1>
-                        <p class="mt-5" style="background: linear-gradient(to right, #fd2a0eff, #f5984cff); 
+                        <p class="mt-5" style="background: linear-gradient(to right, #3148caff, #b858cfff); 
                                     color: white; 
                                     border-radius: 15px; 
                                     padding: 1.7rem 7.5rem;
@@ -325,7 +323,7 @@
     </section>
 
 
-    <section id="form" class="position-relative" style="background-image: url('{{asset('images/Imagenes-L1-3.png')}}'); 
+    <section id="form" class="position-relative" style="background-image: url('{{asset('images/Landing-L3-1.png')}}'); 
                         background-size: cover; 
                         background-position: center; 
                         background-repeat: no-repeat; 
@@ -422,7 +420,7 @@
                                                     <div>
                                                         <button type="submit"
                                                             class="button-rounded blue border-0 bg-white px-4 py-2"
-                                                            style="background: linear-gradient(to right, #fd2a0eff, #f5984cff);
+                                                            style="background: linear-gradient(to right, #3148caff, #b858cfff);
                                                                         color: white; 
                                                                         border-radius: 12px; 
                                                                         padding: 1.7rem 7.5rem;
